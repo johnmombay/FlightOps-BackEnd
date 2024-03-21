@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.API\\FlightOperations.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.API\\FlightOperations.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.API\\FlightOperations.API.csproj",
+        "projectName": "FlightOperations.API",
+        "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.API\\FlightOperations.API.csproj",
+        "packagesPath": "C:\\Users\\oliver.rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oliver.rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj": {
+                "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj"
+              },
+              "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Services\\FlightOperations.Services.csproj": {
+                "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Services\\FlightOperations.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj",
+        "projectName": "FlightOperations.Model",
+        "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj",
+        "packagesPath": "C:\\Users\\oliver.rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oliver.rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Repository\\FlightOperations.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Repository\\FlightOperations.Repository.csproj",
+        "projectName": "FlightOperations.Repository",
+        "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Repository\\FlightOperations.Repository.csproj",
+        "packagesPath": "C:\\Users\\oliver.rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oliver.rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj": {
+                "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Services\\FlightOperations.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Services\\FlightOperations.Services.csproj",
+        "projectName": "FlightOperations.Services",
+        "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Services\\FlightOperations.Services.csproj",
+        "packagesPath": "C:\\Users\\oliver.rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oliver.rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj": {
+                "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Model\\FlightOperations.Model.csproj"
+              },
+              "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Repository\\FlightOperations.Repository.csproj": {
+                "projectPath": "C:\\Oliver\\FlightOperations-Backend\\FlightOperations.API\\FlightOperations.Repository\\FlightOperations.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.deps.json
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.runtimeconfig.json
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.runtimeconfig.dev.json
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.dll
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csprojAssemblyReference.cache
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csproj.CoreCompileInputs.cache
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorAssemblyInfo.cache
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorAssemblyInfo.cs
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.AssemblyInfoInputs.cache
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.AssemblyInfo.cs
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorTargetAssemblyInfo.cache
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.pdb
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Model.dll
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Repository.dll
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Services.dll
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Model.pdb
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Services.pdb
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Repository.pdb
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csproj.CopyComplete
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.dll
+C:\Users\RicoMandar\Documents\Visual Studio 2017\Projects\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.pdb
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.deps.json
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.runtimeconfig.json
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.runtimeconfig.dev.json
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.dll
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.pdb
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Model.dll
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Repository.dll
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Services.dll
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Model.pdb
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Services.pdb
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Repository.pdb
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csprojAssemblyReference.cache
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorAssemblyInfo.cache
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorAssemblyInfo.cs
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.AssemblyInfoInputs.cache
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.AssemblyInfo.cs
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorTargetAssemblyInfo.cache
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csproj.CopyComplete
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.dll
+C:\Oliver\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.pdb
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.deps.json
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.runtimeconfig.json
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.runtimeconfig.dev.json
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.dll
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.API.pdb
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Model.dll
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Repository.dll
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Services.dll
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Model.pdb
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Services.pdb
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\bin\Debug\netcoreapp2.1\FlightOperations.Repository.pdb
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csprojAssemblyReference.cache
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csproj.CoreCompileInputs.cache
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorAssemblyInfo.cache
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorAssemblyInfo.cs
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.AssemblyInfoInputs.cache
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.AssemblyInfo.cs
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.RazorTargetAssemblyInfo.cache
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.csproj.CopyComplete
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.dll
+C:\Users\RicoMandar\Documents\GitHub\FlightOperations-Backend\FlightOperations.API\FlightOperations.API\obj\Debug\netcoreapp2.1\FlightOperations.API.pdb
